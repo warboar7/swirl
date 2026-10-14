@@ -31,7 +31,7 @@ body {
     text-decoration: underline;
 }
 .about-card {
-    max-width: 65-px;
+    max-width: 35-px;
     margin: 55px auto;
     padding: 32px;
     background: rgba(255, 255, 255, 0.887);
